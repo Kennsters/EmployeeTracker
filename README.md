@@ -12,5 +12,5 @@ In the example of adding an employee, we have a function called 'addEmployee' th
 
 This is just one of the many options that the user is able to do within this application. 
 
-Side Note: Other students I collaborated with were Eric, Devin, Makoto. 
+Side Note: Other students I collaborated with were Eric, Devin, Makoto, and David.
 I have removed the password from  line 5 for security reasons.
